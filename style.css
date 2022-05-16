@@ -1,0 +1,71 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+
+}
+.navbar{
+
+display: flex;
+background-color: blue;
+justify-content: space-around;
+color: white;
+font-size: 30px;
+
+
+}
+.navbar ul {
+display: flex;
+
+
+}
+.navbar ul  li {
+padding-right: 25px;
+list-style: none;   
+    
+    }
+      .navbar ul  li a {
+        padding-right: 25px;
+ text-decoration: none;
+ color: white;
+
+    }
+    .search input{
+        font-size: 20px;
+
+
+    }
+    .search button{
+        font-size: 20px;
+
+
+    }
+    .menyu ul {
+        display: flex;
+        justify-content: space-evenly;        
+
+    }
+    .menyu ul li {
+  
+        padding-right: 25px;
+        list-style: none;
+
+
+    }
+    .menyu{
+
+    padding-top: 10px;
+
+    background-color: blue;
+    color: white;
+
+    }
+    .layihe{
+width: 800px;
+
+
+
+
+    }
